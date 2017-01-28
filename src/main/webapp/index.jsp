@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="countries">Countries</a>
+<a href="users">Countries</a>
 </body>
 </html>
