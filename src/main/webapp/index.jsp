@@ -8,5 +8,7 @@
 </head>
 <body>
 <a href="users">Countries</a>
+<a href="UserDetails">Users Servlet</a>
+
 </body>
 </html>
